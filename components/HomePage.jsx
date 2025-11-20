@@ -1,4 +1,4 @@
-import '../index.css';
+import './Weather.css';
 
 export function Homepage() {
     return(
@@ -27,4 +27,5 @@ export function Homepage() {
     </div>
         </>
     )
+
 }
